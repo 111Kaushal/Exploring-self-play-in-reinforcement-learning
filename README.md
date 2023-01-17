@@ -1,1 +1,1 @@
-# Exploring-self-play-in-reinforcement-learning
+# Exploring Self-play in Reinforcement Learning
